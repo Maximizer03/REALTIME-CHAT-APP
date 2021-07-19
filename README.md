@@ -5,8 +5,6 @@ Built a Chat app that allows users to create room and do real-time communication
 (https://5f8db8ab81543495e98f17cd--gallant-archimedes-a7086a.netlify.app)
 
 <img src="./home-page.png" alt="the screenshot of the app large screen"/>
-<img src="./home-page-mobile.png" alt="the screenshot of the app large screen"/> 
-<img src="./chat-page-mobile.png" alt="the screenshot of the app large screen"/>
 
 # The libraries included in this app are - 
 * For the Server side the backend packages are -
