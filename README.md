@@ -4,7 +4,7 @@
 ![REALTIMECHATAPP](https://github.com/UV-3/REALTIME-CHAT-APP/blob/master/src/Screenshot%202021-07-19%20at%205.53.42%20PM.png)
 
 This is a realtime chatting application developed using
-React.js, Node.js & Socket.io. ChatGram is dedicated to 
+React.js, Node.js & Socket.io. Socialise is dedicated to 
 group messaging. Users can share text-based messages and
 emojis with their Friends who are in the same room.
 
