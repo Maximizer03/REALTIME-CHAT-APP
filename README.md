@@ -4,7 +4,7 @@ Built a Chat app that allows users to create room and do real-time communication
 # The WebApp Link - 
 (https://5f8db8ab81543495e98f17cd--gallant-archimedes-a7086a.netlify.app)
 
-<img src="./home-page.png" alt="the screenshot of the app large screen"/>
+(https://github.com/UV-3/REALTIME-CHAT-APP/blob/master/Screenshot%202021-07-19%20at%205.53.42%20PM.png?raw=true)
 
 # The libraries included in this app are - 
 * For the Server side the backend packages are -
